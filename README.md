@@ -8,6 +8,9 @@ These experiments feature discrete action space and (multi-)discrete observation
 
 ![Training](/training.png)
 
+![Experiments records](/rl-video-episodes.gif)
+
+
 ## PPO - LSTM
 
 ## PPO - CNN - LSTM
