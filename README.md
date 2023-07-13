@@ -15,7 +15,7 @@ These experiments feature discrete action space and (multi-)discrete observation
 
 ## PPO - CNN - LSTM
 
-Use a custom gym wrapper to generate grayscale image of environment
+Use a custom gym wrapper to generate sequence of grayscale images for the episode
 
 ```python
 class StateToRGBImage(gym.ObservationWrapper):
